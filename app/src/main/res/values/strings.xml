@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="add_task">Add</string>
+    <string name="cd_save_task">Save</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Description</string>
+</resources>
